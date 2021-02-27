@@ -56,6 +56,16 @@ To run a script rather than an executable, enter `python <script_name>.py` in th
 
 ## Development
 
+- The working development branch on Github is `develop`.
+- to prepare for a new release:
+	- Create release branch: `git checkout -b release.X.Y.Z develop`
+	- Add, commit and, push the new release to Github.
+	- Checkout master branch: `git checkout master`
+	- Merge the release to master: `merge --no-ff release-X.Y.Z`
+	- Tag master with the release version: `tag -a X.Y.Z -m "tag comments go here"`
+	- Push everything to Github `git push --all`; `git push --tags`
+- New hotfixes follow the same instructions as new releases, but originally branch from `master`.
+
 ### Python Files and Scripts
 
 Prior to generating or running a script, activate the virtual environment. See Installation instructions for details. `deactivate` can be entered when the package is no longer in use (works for all OS). 

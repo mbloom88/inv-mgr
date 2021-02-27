@@ -1,4 +1,4 @@
-# Inventory Manager: Source Usage and Development
+# Inventory Manager
 
 A project based off of the Udemy course [Build Real Software with Python, PyQt5 and QT Designer](https://www.udemy.com/course/python-pyqt5/). The project focuses on the creation of a mechanical fastener/parts inventory manager GUI that uses an SQLite3 database.
 

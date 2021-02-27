@@ -45,8 +45,6 @@ Optional
 └───setup.py: Python setuptools installation script
 ```
 
-## Program Execution
-
 ## Script Use
 
 Directory: `inv-mgr/python/src/`

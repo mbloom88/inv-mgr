@@ -21,4 +21,4 @@ The course [Python GUI Programming Recipes using PyQt5](https://www.udemy.com/co
 
 ## Development and Script Use
 
-Navigate to `inv-python/` and refer to the README.md within the directory for details.
+Navigate to `inv-mgr/python/` and refer to the README.md within the directory for details.

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="png">
+    <file>gfx/Wrench_font_awesome_original.png</file>
+  </qresource>
+</RCC>

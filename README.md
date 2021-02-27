@@ -11,6 +11,7 @@ The course [Python GUI Programming Recipes using PyQt5](https://www.udemy.com/co
 ├───inv_mgr.zip: ZIP file containing the main executable
 │   └───inv_mgr.exe: main program executable
 ├───python: python development source code and resources
+├───CHANGELOG.md: project changelog
 └───README.md: this document
 ```
 

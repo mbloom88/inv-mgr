@@ -23,6 +23,3 @@ Initial release.
 
 ### Fixed
 - None
-
-### Downloads
-- File: `./inv_mgr.zip`

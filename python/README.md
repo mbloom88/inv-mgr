@@ -62,7 +62,7 @@ To run a script rather than an executable, enter `python <script_name>.py` in th
 	- Add, commit and, push the new release to Github.
 	- Checkout master branch: `git checkout master`
 	- Merge the release to master: `git merge --no-ff release-X.Y.Z`
-	- Tag master with the release version: `git tag -a X.Y.Z -m "tag comments go here"`
+	- Tag master with the release version: `git tag -a vX.Y.Z -m "tag comments go here"`
 	- Push everything to Github `git push --all`; `git push --tags`
 - New hotfixes follow the same instructions as new releases, but originally branch from `master`.
 

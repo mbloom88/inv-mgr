@@ -58,7 +58,7 @@ To run a script rather than an executable, enter `python <script_name>.py` in th
 
 - The working development branch on Github is `develop`.
 - to prepare for a new release:
-	- Create release branch: `git checkout -b release.X.Y.Z develop`
+	- Create release branch: `git checkout -b release-X.Y.Z develop`
 	- Add, commit and, push the new release to Github.
 	- Checkout master branch: `git checkout master`
 	- Merge the release to master: `merge --no-ff release-X.Y.Z`
